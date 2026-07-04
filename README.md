@@ -27,6 +27,7 @@ This project uses the **Brazilian E-commerce Public Dataset by Olist**, containi
 > The dataset is not included in this repository due to its size. Please download it from Kaggle before running the project.
 
 ---
+
 ## 🛠️ Tech Stack
 
 - **Python**
@@ -50,6 +51,7 @@ This project uses the **Brazilian E-commerce Public Dataset by Olist**, containi
 The Power BI dashboard provides an interactive view of key business metrics, including revenue, orders, customer distribution, product performance, seller performance, and logistics.
 
 <img src="Dashboard/Screenshot 2026-07-04 112601.png">
+
 ---
 
 ## 💡 Key Insights
