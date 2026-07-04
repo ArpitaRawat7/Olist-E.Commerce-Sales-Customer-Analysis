@@ -49,7 +49,7 @@ This project uses the **Brazilian E-commerce Public Dataset by Olist**, containi
 
 The Power BI dashboard provides an interactive view of key business metrics, including revenue, orders, customer distribution, product performance, seller performance, and logistics.
 
-<img src="dashboard_screenshots/Olist_Dashboard.png" width="1000">
+<img src="Dashboard/Screenshot 2026-07-04 112601.png">
 ---
 
 ## 💡 Key Insights
